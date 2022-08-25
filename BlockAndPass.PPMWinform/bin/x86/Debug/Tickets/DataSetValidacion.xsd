@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetValidacion" targetNamespace="http://tempuri.org/DataSetValidacion.xsd" xmlns:mstns="http://tempuri.org/DataSetValidacion.xsd" xmlns="http://tempuri.org/DataSetValidacion.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ParkingConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ParkingConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.BlockAndPass.PPMWinform.Properties.Settings.GlobalReference.Default.ParkingConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetValidacion" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetValidacion" msprop:Generator_UserDSName="DataSetValidacion">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FechaEntrada" msprop:Generator_ColumnVarNameInTable="columnFechaEntrada" msprop:Generator_ColumnPropNameInRow="FechaEntrada" msprop:Generator_ColumnPropNameInTable="FechaEntradaColumn" msprop:Generator_UserColumnName="FechaEntrada" type="xs:string" minOccurs="0" />
+              <xs:element name="FechaValidacion" msprop:Generator_ColumnVarNameInTable="columnFechaValidacion" msprop:Generator_ColumnPropNameInRow="FechaValidacion" msprop:Generator_ColumnPropNameInTable="FechaValidacionColumn" msprop:Generator_UserColumnName="FechaValidacion" type="xs:string" minOccurs="0" />
+              <xs:element name="Convenio" msprop:Generator_ColumnVarNameInTable="columnConvenio" msprop:Generator_ColumnPropNameInRow="Convenio" msprop:Generator_ColumnPropNameInTable="ConvenioColumn" msprop:Generator_UserColumnName="Convenio" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

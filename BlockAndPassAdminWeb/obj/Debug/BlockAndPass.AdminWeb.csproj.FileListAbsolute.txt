@@ -1,0 +1,64 @@
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.dll
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.pdb
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.dll
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.pdb
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.dll
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.pdb
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.dll
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.pdb
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.dll
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.pdb
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.dll
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.pdb
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.dll
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.pdb
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.dll
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.pdb
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.dll
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.pdb
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.dll
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.pdb
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.csprojResolveAssemblyReference.cache
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.dll
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.pdb
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.csprojResolveAssemblyReference.cache
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.dll
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.pdb
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.csprojResolveAssemblyReference.cache
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.dll
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.pdb
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.csprojResolveAssemblyReference.cache
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.dll
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.dll
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPassAdminWeb\bin\BlockAndPass.AdminWeb.pdb
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPassAdminWeb\obj\Debug\BlockAndPass.AdminWeb.pdb
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPassAdminWeb\bin\LectorDevice.dll
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPassAdminWeb\bin\GS.Apdu.dll
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPassAdminWeb\bin\GS.HexLibrary.dll

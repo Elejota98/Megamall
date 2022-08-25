@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UsuarioCollection>
+<Usuarios>
+<Usuario>
+<Login>test</Login>
+<Clave>123</Clave>
+</Usuario>
+</Usuarios>
+</UsuarioCollection>

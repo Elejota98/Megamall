@@ -1,0 +1,9 @@
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.PPMWinform\bin\Debug\BlockAndPass.PPMWinform.exe
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.PPMWinform\bin\Debug\BlockAndPass.PPMWinform.pdb
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.PPMWinform\obj\Debug\BlockAndPass.PPMWinform.Properties.Resources.resources
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.PPMWinform\obj\Debug\BlockAndPass.PPMWinform.csproj.GenerateResource.Cache
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.PPMWinform\obj\Debug\BlockAndPass.PPMWinform.exe
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.PPMWinform\obj\Debug\BlockAndPass.PPMWinform.pdb
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.PPMWinform\obj\Debug\BlockAndPass.PPMWinform.PPM.resources
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.PPMWinform\bin\Debug\BlockAndPass.PPMWinform.exe.config
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.PPMWinform\obj\Debug\BlockAndPass.PPMWinform.csprojResolveAssemblyReference.cache
