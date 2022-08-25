@@ -1,0 +1,180 @@
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\Media\Png\bnCard.png
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\Media\Png\btnCourtesy.png
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\loginFile.mp78
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.exe.config
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.exe
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.pdb
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.AdministrarVisado.resources
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.ConvenioPopUp.resources
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.Properties.Resources.resources
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.WelcomeVisado.resources
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.exe
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.pdb
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\Media\Png\bnCard.png
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\Media\Png\btnCourtesy.png
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\loginFile.mp78
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.exe.config
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.exe
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.pdb
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.AdministrarVisado.resources
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.ConvenioPopUp.resources
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.Properties.Resources.resources
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.WelcomeVisado.resources
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.exe
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\Media\Png\bnCard.png
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\Media\Png\btnCourtesy.png
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\loginFile.mp78
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.exe.config
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.exe
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.AdministrarVisado.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.ConvenioPopUp.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.Properties.Resources.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.WelcomeVisado.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.exe
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\Media\Png\bnCard.png
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\Media\Png\btnCourtesy.png
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\loginFile.mp78
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.exe.config
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.exe
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.AdministrarVisado.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.ConvenioPopUp.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.Properties.Resources.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.WelcomeVisado.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.exe
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\Media\Png\bnCard.png
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\Media\Png\btnCourtesy.png
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\loginFile.mp78
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.exe.config
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.exe
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.AdministrarVisado.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.ConvenioPopUp.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.Properties.Resources.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.WelcomeVisado.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.exe
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\Media\Png\bnCard.png
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\Media\Png\btnCourtesy.png
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\loginFile.mp78
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.exe.config
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.exe
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.AdministrarVisado.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.ConvenioPopUp.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.Properties.Resources.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.WelcomeVisado.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.exe
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.pdb
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\Media\Png\bnCard.png
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\Media\Png\btnCourtesy.png
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\loginFile.mp78
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.exe.config
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.exe
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.pdb
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.AdministrarVisado.resources
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.ConvenioPopUp.resources
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.Properties.Resources.resources
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.WelcomeVisado.resources
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.exe
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\Media\Png\bnCard.png
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\Media\Png\btnCourtesy.png
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\loginFile.mp78
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.exe
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.AdministrarVisado.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.ConvenioPopUp.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.WelcomeVisado.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.exe
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.pdb
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.VisadoWinform\bin\Debug\Media\Png\bnCard.png
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.VisadoWinform\bin\Debug\Media\Png\btnCourtesy.png
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.VisadoWinform\bin\Debug\loginFile.mp78
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.exe.config
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.exe
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.pdb
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.csprojResolveAssemblyReference.cache
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.AdministrarVisado.resources
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.ConvenioPopUp.resources
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.Properties.Resources.resources
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.WelcomeVisado.resources
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.csproj.GenerateResource.Cache
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.exe
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.pdb
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.VisadoWinform\bin\Debug\Media\Png\bnCard.png
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.VisadoWinform\bin\Debug\Media\Png\btnCourtesy.png
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.VisadoWinform\bin\Debug\loginFile.mp78
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.exe.config
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.exe
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.VisadoWinform\bin\Debug\BlockAndPass.VisadoWinform.pdb
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.VisadoWinform\bin\Debug\EGlobalT.Device.Tools.dll
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.csprojResolveAssemblyReference.cache
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.AdministrarVisado.resources
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.ConvenioPopUp.resources
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.Properties.Resources.resources
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.WelcomeVisado.resources
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.csproj.GenerateResource.Cache
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.exe
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.VisadoWinform\obj\Debug\BlockAndPass.VisadoWinform.pdb

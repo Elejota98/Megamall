@@ -1,0 +1,256 @@
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPagoM.rdlc
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketCarga.rdlc
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketArqueo.rdlc
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPago.rdlc
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.dll
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.pdb
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCard.dll
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.Tools.dll
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.dll
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.xml
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\es\System.Web.Helpers.resources.dll
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.cache
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.compiled
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.dll
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.pdb
+C:\Users\cechece\Documents\Visual Studio 2012\Projects\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPagoM.rdlc
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketCarga.rdlc
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketArqueo.rdlc
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPago.rdlc
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.dll
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.pdb
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCard.dll
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardFeeders.dll
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardReaders.dll
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.Tools.dll
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.dll
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.xml
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\bin\es\System.Web.Helpers.resources.dll
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.cache
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.compiled
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.dll
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.pdb
+D:\Mis Documentos\Fuentes\BlockAndPassAdminWebSolucion\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPagoM.rdlc
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketCarga.rdlc
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketArqueo.rdlc
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPago.rdlc
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.dll
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.pdb
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.dll
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.xml
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.cache
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.compiled
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.dll
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.pdb
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPagoM.rdlc
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketCarga.rdlc
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketArqueo.rdlc
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPago.rdlc
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.dll
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.pdb
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.dll
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.xml
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.cache
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.compiled
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.dll
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPagoM.rdlc
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketCarga.rdlc
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketArqueo.rdlc
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPago.rdlc
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.xml
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.compiled
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPagoM.rdlc
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketCarga.rdlc
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketArqueo.rdlc
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPago.rdlc
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.xml
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.compiled
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZADOADMINPARQUEARSE\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPagoM.rdlc
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketCarga.rdlc
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketArqueo.rdlc
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPago.rdlc
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.xml
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.compiled
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPagoM.rdlc
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketCarga.rdlc
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketArqueo.rdlc
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPago.rdlc
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.xml
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.compiled
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.pdb
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPagoM.rdlc
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketCarga.rdlc
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketArqueo.rdlc
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPago.rdlc
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.dll
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.pdb
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.dll
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.xml
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.cache
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.compiled
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.dll
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPagoM.rdlc
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketCarga.rdlc
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketArqueo.rdlc
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPago.rdlc
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.xml
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.cache
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.compiled
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.pdb
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.csprojResolveAssemblyReference.cache
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPagoM.rdlc
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketCarga.rdlc
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketArqueo.rdlc
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPago.rdlc
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.dll
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.pdb
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardFeeders.dll
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardReaders.dll
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.Tools.dll
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.dll
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.xml
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.WebServiceLocalReader\bin\es\System.Web.Helpers.resources.dll
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.cache
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.compiled
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.dll
+C:\Proyectos\CCFLORIDA\ADMIN&PPM\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.pdb
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPagoM.rdlc
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketCarga.rdlc
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketArqueo.rdlc
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPago.rdlc
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.dll
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.pdb
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCard.dll
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.Tools.dll
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\LectorDevice.dll
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.dll
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.xml
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\es\System.Web.Helpers.resources.dll
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.cache
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.compiled
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.dll
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.pdb
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\GS.Apdu.dll
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\GS.HexLibrary.dll
+C:\Users\LJ\Desktop\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PARQUEARSE\Megamall\Administrativo\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPagoM.rdlc
+D:\PROYECTOS\PARQUEARSE\Megamall\Administrativo\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketCarga.rdlc
+D:\PROYECTOS\PARQUEARSE\Megamall\Administrativo\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketArqueo.rdlc
+D:\PROYECTOS\PARQUEARSE\Megamall\Administrativo\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPago.rdlc
+D:\PROYECTOS\PARQUEARSE\Megamall\Administrativo\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.dll
+D:\PROYECTOS\PARQUEARSE\Megamall\Administrativo\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.pdb
+D:\PROYECTOS\PARQUEARSE\Megamall\Administrativo\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCard.dll
+D:\PROYECTOS\PARQUEARSE\Megamall\Administrativo\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardFeeders.dll
+D:\PROYECTOS\PARQUEARSE\Megamall\Administrativo\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardReaders.dll
+D:\PROYECTOS\PARQUEARSE\Megamall\Administrativo\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.Tools.dll
+D:\PROYECTOS\PARQUEARSE\Megamall\Administrativo\BlockAndPass.WebServiceLocalReader\bin\GS.Apdu.dll
+D:\PROYECTOS\PARQUEARSE\Megamall\Administrativo\BlockAndPass.WebServiceLocalReader\bin\GS.HexLibrary.dll
+D:\PROYECTOS\PARQUEARSE\Megamall\Administrativo\BlockAndPass.WebServiceLocalReader\bin\LectorDevice.dll
+D:\PROYECTOS\PARQUEARSE\Megamall\Administrativo\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.dll
+D:\PROYECTOS\PARQUEARSE\Megamall\Administrativo\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.xml
+D:\PROYECTOS\PARQUEARSE\Megamall\Administrativo\BlockAndPass.WebServiceLocalReader\bin\es\System.Web.Helpers.resources.dll
+D:\PROYECTOS\PARQUEARSE\Megamall\Administrativo\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.cache
+D:\PROYECTOS\PARQUEARSE\Megamall\Administrativo\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.compiled
+D:\PROYECTOS\PARQUEARSE\Megamall\Administrativo\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.dll
+D:\PROYECTOS\PARQUEARSE\Megamall\Administrativo\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.pdb
+D:\PROYECTOS\PARQUEARSE\Megamall\Administrativo\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.csprojResolveAssemblyReference.cache
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPagoM.rdlc
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketCarga.rdlc
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketArqueo.rdlc
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\Tickets\ticketPago.rdlc
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.dll
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\BlockAndPass.WebServiceLocalReader.pdb
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCard.dll
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardFeeders.dll
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.SmartCardReaders.dll
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\EGlobalT.Device.Tools.dll
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\GS.Apdu.dll
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\GS.HexLibrary.dll
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\LectorDevice.dll
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.dll
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\System.Web.Helpers.xml
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\bin\es\System.Web.Helpers.resources.dll
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.cache
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\obj\Debug\RdlCompile.compiled
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.dll
+C:\PROYECTOS\MEGAMALL\Administrativo\BlockAndPass.WebServiceLocalReader\obj\Debug\BlockAndPass.WebServiceLocalReader.pdb

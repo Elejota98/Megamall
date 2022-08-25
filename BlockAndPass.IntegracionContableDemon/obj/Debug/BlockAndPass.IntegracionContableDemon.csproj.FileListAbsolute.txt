@@ -1,0 +1,3 @@
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.IntegracionContableDemon\obj\Debug\BlockAndPass.IntegracionContableDemon.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.IntegracionContableDemon\obj\Debug\BlockAndPass.IntegracionContableDemon.frmIntegracionContableDemon.resources
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.IntegracionContableDemon\obj\Debug\BlockAndPass.IntegracionContableDemon.csproj.GenerateResource.Cache

@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A2940323-C19A-4712-8375-60E837D586EA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BlockAndPass.ValetWinform</RootNamespace>
+    <AssemblyName>BlockAndPass.ValetWinform</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EGlobalT.Device.SmartCard">
+      <HintPath>..\BlockAndPass.Library\EGlobalT.Device.SmartCard.dll</HintPath>
+    </Reference>
+    <Reference Include="EGlobalT.Device.SmartCardFeeders">
+      <HintPath>..\BlockAndPass.Library\EGlobalT.Device.SmartCardFeeders.dll</HintPath>
+    </Reference>
+    <Reference Include="EGlobalT.Device.SmartCardReaders">
+      <HintPath>..\BlockAndPass.Library\EGlobalT.Device.SmartCardReaders.dll</HintPath>
+    </Reference>
+    <Reference Include="EGlobalT.Device.Tools">
+      <HintPath>..\BlockAndPass.Library\EGlobalT.Device.Tools.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CustomKeyBoard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomKeyBoard.Designer.cs">
+      <DependentUpon>CustomKeyBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ingresar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ingresar.Designer.cs">
+      <DependentUpon>Ingresar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Valet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Valet.Designer.cs">
+      <DependentUpon>Valet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\ByPServices\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CustomKeyBoard.resx">
+      <DependentUpon>CustomKeyBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ingresar.resx">
+      <DependentUpon>Ingresar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Valet.resx">
+      <DependentUpon>Valet.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Web References\ByPServices\ActualizaVigenciaAutorizadoResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\AplicarConvenioResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\AplicarCortesiaResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\AplicarEventoResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\AplicarMotoResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\AutorizadoxPlacaResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\CarrilEntradaXEntradaResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\CarrilxIdModuloResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\ConfirmarArqueoResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\ConfirmarCargaResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\ConveniosResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\CreaEntradaResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\CreaSalidaResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\DescripcionConvenioResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\EstacionamientosResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\EventosResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\InfoArqueoResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\InfoCargaResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\InfoFacturaResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\InfoPagoMensualidadService.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\InfoPagoNormalService.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\InfoPPMService.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\InfoTransaccionService.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\InfoUsuarioResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\LiquidacionService.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\LoginResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\MotivosCortesiaResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\ByPServices\RegistrarArqueoResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\RegistrarCargaResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\SedesResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\ServicesByP.wsdl" />
+    <None Include="Web References\ByPServices\VehiculosEnValetResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\VerificaTransaccionAbiertaAutorizadoResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\VerificaVigenciaAutorizadoResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Media\Ico\valeticon.ico" />
+    <Content Include="Media\Png\BORRAR.png" />
+    <Content Include="Media\Png\BtnCancelNumerico.png" />
+    <Content Include="Media\Png\btnHistory.png" />
+    <Content Include="Media\Png\btnNewRegister.png" />
+    <Content Include="Media\Png\LETRA_A.png" />
+    <Content Include="Media\Png\LETRA_B.png" />
+    <Content Include="Media\Png\LETRA_C.png" />
+    <Content Include="Media\Png\LETRA_D.png" />
+    <Content Include="Media\Png\LETRA_E.png" />
+    <Content Include="Media\Png\LETRA_F.png" />
+    <Content Include="Media\Png\LETRA_G.png" />
+    <Content Include="Media\Png\LETRA_H.png" />
+    <Content Include="Media\Png\LETRA_I.png" />
+    <Content Include="Media\Png\LETRA_J.png" />
+    <Content Include="Media\Png\LETRA_K.png" />
+    <Content Include="Media\Png\LETRA_L.png" />
+    <Content Include="Media\Png\LETRA_M.png" />
+    <Content Include="Media\Png\LETRA_N.png" />
+    <Content Include="Media\Png\LETRA_O.png" />
+    <Content Include="Media\Png\LETRA_P.png" />
+    <Content Include="Media\Png\LETRA_Q.png" />
+    <Content Include="Media\Png\LETRA_R.png" />
+    <Content Include="Media\Png\LETRA_S.png" />
+    <Content Include="Media\Png\LETRA_T.png" />
+    <Content Include="Media\Png\LETRA_U.png" />
+    <Content Include="Media\Png\LETRA_V.png" />
+    <Content Include="Media\Png\LETRA_W.png" />
+    <Content Include="Media\Png\LETRA_X.png" />
+    <Content Include="Media\Png\LETRA_Y.png" />
+    <Content Include="Media\Png\LETRA_Z.png" />
+    <Content Include="Media\Png\LETRA_Ñ.png" />
+    <Content Include="Media\Png\NUMERO_0.png" />
+    <Content Include="Media\Png\NUMERO_1.png" />
+    <Content Include="Media\Png\NUMERO_2.png" />
+    <Content Include="Media\Png\NUMERO_3.png" />
+    <Content Include="Media\Png\NUMERO_4.png" />
+    <Content Include="Media\Png\NUMERO_5.png" />
+    <Content Include="Media\Png\NUMERO_6.png" />
+    <Content Include="Media\Png\NUMERO_7.png" />
+    <Content Include="Media\Png\NUMERO_8.png" />
+    <Content Include="Media\Png\NUMERO_9.png" />
+    <None Include="Web References\ByPServices\ServicesByP.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://localhost:85/ServicesByP.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\ByPServices\</RelPath>
+      <UpdateFromURL>http://localhost:85/ServicesByP.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>BlockAndPass_ValetWinform_ByPServices_ServicesByP</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

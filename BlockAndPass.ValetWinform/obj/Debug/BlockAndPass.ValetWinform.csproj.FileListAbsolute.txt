@@ -1,0 +1,112 @@
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\BlockAndPass.ValetWinform.exe.config
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\BlockAndPass.ValetWinform.exe
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\BlockAndPass.ValetWinform.pdb
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.CustomKeyBoard.resources
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Ingresar.resources
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Login.resources
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Properties.Resources.resources
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Valet.resources
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.exe
+C:\Users\Administrador\Documents\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.pdb
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\BlockAndPass.ValetWinform.exe.config
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\BlockAndPass.ValetWinform.exe
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\BlockAndPass.ValetWinform.pdb
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.CustomKeyBoard.resources
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Ingresar.resources
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Login.resources
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Properties.Resources.resources
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Valet.resources
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.exe
+C:\Users\Administrador\Documents\CCLaFlorida\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\BlockAndPass.ValetWinform.exe.config
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\BlockAndPass.ValetWinform.exe
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\BlockAndPass.ValetWinform.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.CustomKeyBoard.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Ingresar.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Login.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Properties.Resources.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Valet.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.exe
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\BlockAndPass.ValetWinform.exe.config
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\BlockAndPass.ValetWinform.exe
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\BlockAndPass.ValetWinform.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.CustomKeyBoard.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Ingresar.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Login.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Properties.Resources.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Valet.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.exe
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\VERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\BlockAndPass.ValetWinform.exe.config
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\BlockAndPass.ValetWinform.exe
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\BlockAndPass.ValetWinform.pdb
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.CustomKeyBoard.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Ingresar.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Login.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Properties.Resources.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Valet.resources
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.exe
+C:\Users\Administrador\Documents\MejorasmoduloAdmin\ULTIMAVERSIONACTUALIZACIONESLAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.pdb
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\BlockAndPass.ValetWinform.exe.config
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\BlockAndPass.ValetWinform.exe
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\BlockAndPass.ValetWinform.pdb
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.CustomKeyBoard.resources
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Ingresar.resources
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Login.resources
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Properties.Resources.resources
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Valet.resources
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.exe
+C:\Users\Administrador\Documents\MejorasSoftParking\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\BlockAndPass.ValetWinform.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\BlockAndPass.ValetWinform.exe
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\BlockAndPass.ValetWinform.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.CustomKeyBoard.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Ingresar.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Login.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.Valet.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.exe
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ULTIMAV_LAFLORIDA\AdminParquearse\BlockAndPass.ValetWinform\obj\Debug\BlockAndPass.ValetWinform.pdb

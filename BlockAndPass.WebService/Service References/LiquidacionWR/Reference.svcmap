@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d1ea4798-bb6b-4891-97cb-eb5b94695fca" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://169.47.207.158:88/LiquidacionService/MC_LiquidacionService.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MC_LiquidacionService.xsd" MetadataType="Schema" ID="343a6197-1dc7-47cb-9fee-0fa40d9901f9" SourceId="1" SourceUrl="http://169.47.207.158:88/LiquidacionService/MC_LiquidacionService.svc?xsd=xsd3" />
+    <MetadataFile FileName="MC_LiquidacionService1.xsd" MetadataType="Schema" ID="934a5f3e-4028-4a24-aabb-165ead95ed7e" SourceId="1" SourceUrl="http://169.47.207.158:88/LiquidacionService/MC_LiquidacionService.svc?xsd=xsd2" />
+    <MetadataFile FileName="MC_LiquidacionService2.xsd" MetadataType="Schema" ID="04f87e06-d000-43e1-ac62-bbe4821fa716" SourceId="1" SourceUrl="http://169.47.207.158:88/LiquidacionService/MC_LiquidacionService.svc?xsd=xsd1" />
+    <MetadataFile FileName="MC_LiquidacionService3.xsd" MetadataType="Schema" ID="005e934f-b7b9-4f74-b6c0-56f2648f72a2" SourceId="1" SourceUrl="http://169.47.207.158:88/LiquidacionService/MC_LiquidacionService.svc?xsd=xsd0" />
+    <MetadataFile FileName="LiquidacionService.wsdl" MetadataType="Wsdl" ID="de701323-31c2-4503-8df3-0414e1a1dd04" SourceId="1" SourceUrl="http://169.47.207.158:88/LiquidacionService/MC_LiquidacionService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

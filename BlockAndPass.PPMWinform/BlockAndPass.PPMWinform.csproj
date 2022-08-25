@@ -1,0 +1,591 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0C5B487E-30CA-485C-9F76-FECD8931CC7D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BlockAndPass.PPMWinform</RootNamespace>
+    <AssemblyName>BlockAndPass.PPMWinform</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EGlobalT.Device.SmartCard">
+      <HintPath>..\BlockAndPass.Library\EGlobalT.Device.SmartCard.dll</HintPath>
+    </Reference>
+    <Reference Include="EGlobalT.Device.SmartCardFeeders">
+      <HintPath>..\BlockAndPass.Library\EGlobalT.Device.SmartCardFeeders.dll</HintPath>
+    </Reference>
+    <Reference Include="EGlobalT.Device.SmartCardReaders">
+      <HintPath>..\BlockAndPass.Library\EGlobalT.Device.SmartCardReaders.dll</HintPath>
+    </Reference>
+    <Reference Include="EGlobalT.Device.Tools">
+      <HintPath>..\BlockAndPass.Library\EGlobalT.Device.Tools.dll</HintPath>
+    </Reference>
+    <Reference Include="LectorDevice, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\BlockAndPass.Library\LectorDevice.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Helpers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bin\x86\Debug\Tickets\DataSetValidacion.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetValidacion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CasilleroCasco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CasilleroCasco.Designer.cs">
+      <DependentUpon>CasilleroCasco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConvenioPopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConvenioPopUp.Designer.cs">
+      <DependentUpon>ConvenioPopUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CargaPopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CargaPopUp.Designer.cs">
+      <DependentUpon>CargaPopUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ArqueoPopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ArqueoPopUp.Designer.cs">
+      <DependentUpon>ArqueoPopUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CopiaFacturaM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CopiaFacturaM.Designer.cs">
+      <DependentUpon>CopiaFacturaM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CopiaFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CopiaFactura.Designer.cs">
+      <DependentUpon>CopiaFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrearSalida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrearSalida.Designer.cs">
+      <DependentUpon>CrearSalida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrearIngreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrearIngreso.Designer.cs">
+      <DependentUpon>CrearIngreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EventoPopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EventoPopUp.Designer.cs">
+      <DependentUpon>EventoPopUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CortesiaPopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CortesiaPopUp.Designer.cs">
+      <DependentUpon>CortesiaPopUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PPM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PPM.Designer.cs">
+      <DependentUpon>PPM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tickets\DataSetCopia.cs">
+      <DependentUpon>DataSetCopia.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tickets\DataSetCopia.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetCopia.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Tickets\DataSetTicketArqueo.cs">
+      <DependentUpon>DataSetTicketArqueo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Tickets\DataSetTicketArqueo.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetTicketArqueo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Tickets\DataSetTicketCarga.cs">
+      <DependentUpon>DataSetTicketCarga.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Tickets\DataSetTicketCarga.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetTicketCarga.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Tickets\DataSetTicketPago.cs">
+      <DependentUpon>DataSetTicketPago.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tickets\DataSetTicketPago.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetTicketPago.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Tickets\DataSetTicketPagoMensualidad.cs">
+      <DependentUpon>DataSetTicketPagoMensualidad.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Tickets\DataSetTicketPagoMensualidad.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetTicketPagoMensualidad.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Tickets\DataSetValidacion.Designer.cs">
+      <DependentUpon>DataSetValidacion.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Tickets\ReportPrintDocument.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Web References\ByPServices\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="bin\x86\Debug\Tickets\TicketValidacion.rdlc" />
+    <EmbeddedResource Include="CasilleroCasco.resx">
+      <DependentUpon>CasilleroCasco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConvenioPopUp.resx">
+      <DependentUpon>ConvenioPopUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CargaPopUp.resx">
+      <DependentUpon>CargaPopUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ArqueoPopUp.resx">
+      <DependentUpon>ArqueoPopUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CopiaFacturaM.resx">
+      <DependentUpon>CopiaFacturaM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CopiaFactura.resx">
+      <DependentUpon>CopiaFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrearSalida.resx">
+      <DependentUpon>CrearSalida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrearIngreso.resx">
+      <DependentUpon>CrearIngreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EventoPopUp.resx">
+      <DependentUpon>EventoPopUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CortesiaPopUp.resx">
+      <DependentUpon>CortesiaPopUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PPM.resx">
+      <DependentUpon>PPM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Tickets\CopiaFactura.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tickets\CopiaFacturaM.rdlc" />
+    <EmbeddedResource Include="Tickets\ticketPagoSimplificado.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tickets\ticketPagoMSimplificado.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tickets\ticketArqueo.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tickets\ticketCarga.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tickets\ticketPago.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tickets\ticketPagoM.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bin\x86\Debug\Tickets\DataSetValidacion.xsc">
+      <DependentUpon>DataSetValidacion.xsd</DependentUpon>
+    </None>
+    <None Include="bin\x86\Debug\Tickets\DataSetValidacion.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetValidacion.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="bin\x86\Debug\Tickets\DataSetValidacion.xss">
+      <DependentUpon>DataSetValidacion.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Tickets\DataSetCopia.xsc">
+      <DependentUpon>DataSetCopia.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Tickets\DataSetCopia.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetCopia.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Tickets\DataSetCopia.xss">
+      <DependentUpon>DataSetCopia.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Tickets\DataSetTicketArqueo.xsc">
+      <DependentUpon>DataSetTicketArqueo.xsd</DependentUpon>
+    </None>
+    <None Include="Tickets\DataSetTicketArqueo.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetTicketArqueo.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Tickets\DataSetTicketArqueo.xss">
+      <DependentUpon>DataSetTicketArqueo.xsd</DependentUpon>
+    </None>
+    <None Include="Tickets\DataSetTicketCarga.xsc">
+      <DependentUpon>DataSetTicketCarga.xsd</DependentUpon>
+    </None>
+    <None Include="Tickets\DataSetTicketCarga.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetTicketCarga.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Tickets\DataSetTicketCarga.xss">
+      <DependentUpon>DataSetTicketCarga.xsd</DependentUpon>
+    </None>
+    <None Include="Tickets\DataSetTicketPago.xsc">
+      <DependentUpon>DataSetTicketPago.xsd</DependentUpon>
+    </None>
+    <None Include="Tickets\DataSetTicketPago.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetTicketPago.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Tickets\DataSetTicketPago.xss">
+      <DependentUpon>DataSetTicketPago.xsd</DependentUpon>
+    </None>
+    <None Include="Tickets\DataSetTicketPagoMensualidad.xsc">
+      <DependentUpon>DataSetTicketPagoMensualidad.xsd</DependentUpon>
+    </None>
+    <None Include="Tickets\DataSetTicketPagoMensualidad.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetTicketPagoMensualidad.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Tickets\DataSetTicketPagoMensualidad.xss">
+      <DependentUpon>DataSetTicketPagoMensualidad.xsd</DependentUpon>
+    </None>
+    <None Include="Tickets\DataSetValidacion.xsc">
+      <DependentUpon>DataSetValidacion.xsd</DependentUpon>
+    </None>
+    <None Include="Tickets\DataSetValidacion.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetValidacion.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Tickets\DataSetValidacion.xss">
+      <DependentUpon>DataSetValidacion.xsd</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\ActualizaVigenciaAutorizadoResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\AplicaCascoResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\AplicarConvenioResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\AplicarCortesiaResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\AplicarEventoResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\AplicarMotoResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\AutorizadoxPlacaResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\CarrilEntradaXEntradaResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\CarrilxIdModuloResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\ConfirmarArqueoResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\ConfirmarCargaResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\ConveniosResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\CreaEntradaResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\CreaSalidaResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\DescripcionConvenioResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\EstacionamientosResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\EventosResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\InfoArqueoResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\InfoCargaResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\InfoFacturaResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\InfoPagoMensualidadService.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\InfoPagoNormalService.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\InfoPPMService.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\InfoTransaccionService.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\InfoUsuarioResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\LiquidacionService.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\LoginResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\MotivosCortesiaResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\ByPServices\RegistrarArqueoResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\RegistrarCargaResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\SaveConveniosResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\SedesResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\ServicesByP.wsdl" />
+    <None Include="Web References\ByPServices\ValidarIdTarjetaAutorizadoResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\VehiculosEnValetResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\VerificaTransaccionAbiertaAutorizadoResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ByPServices\VerificaVigenciaAutorizadoResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Media\Jpg\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Media\Ico\favicon.ico" />
+    <Content Include="Media\Png\bnCard.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Media\Png\btnBag.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Media\Png\btnCalendar.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Media\Png\btnCard.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Media\Png\btnClean.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Media\Png\btnClose.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Media\Png\btnCourtesy.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Media\Png\btnDownArrow.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Media\Png\btnEntry.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Media\Png\btnFav.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Media\Png\btnFuel.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Media\Png\btnHelmet.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Media\Png\btnMoto.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Media\Png\btnPay.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Media\Png\btnPlaca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://localhost:85/ServicesByP.asmx%3fWSDL">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\ByPServices\</RelPath>
+      <UpdateFromURL>http://localhost:85/ServicesByP.asmx%3fWSDL</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>BlockAndPass_PPMWinform_ByPServices_ServicesByP</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BlockAndPass.WebServiceLocalReader\BlockAndPass.WebServiceLocalReader.csproj">
+      <Project>{A67B3ECF-83C7-42DD-B9CC-68E0E90448E8}</Project>
+      <Name>BlockAndPass.WebServiceLocalReader</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BlockAndPass.WebService\BlockAndPass.WebService.csproj">
+      <Project>{b5baa89e-f97e-493a-83fd-677414c3b901}</Project>
+      <Name>BlockAndPass.WebService</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
